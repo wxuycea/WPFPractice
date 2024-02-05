@@ -1,0 +1,23 @@
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\bin\Debug\net8.0-windows\MVVM Practice.exe
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\bin\Debug\net8.0-windows\MVVM Practice.deps.json
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\bin\Debug\net8.0-windows\MVVM Practice.runtimeconfig.json
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\bin\Debug\net8.0-windows\MVVM Practice.dll
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\bin\Debug\net8.0-windows\MVVM Practice.pdb
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\MVVM Practice_MarkupCompile.cache
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\MVVM Practice_MarkupCompile.lref
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\MVVM Practice.g.resources
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\MVVM Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\MVVM Practice.AssemblyInfoInputs.cache
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\MVVM Practice.AssemblyInfo.cs
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\MVVM Practice.csproj.CoreCompileInputs.cache
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\MVVM Practice.sourcelink.json
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\MVVM Practice.dll
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\refint\MVVM Practice.dll
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\MVVM Practice.pdb
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\MVVM Practice.genruntimeconfig.cache
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\ref\MVVM Practice.dll
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\ComboBoxBinding.g.cs
+C:\Users\gustn\Desktop\WpfApp\MVVM Practice\MVVM Practice\obj\Debug\net8.0-windows\ComboBoxBinding.baml
